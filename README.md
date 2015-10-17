@@ -1,4 +1,5 @@
-hub1
-====
-
-First repository in Github
+#hub1  
+====  
+* Functions
+  * Store some useful document
+  * Do some exercise with this repo
